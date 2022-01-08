@@ -1,0 +1,6 @@
+Financial Analysis
+The total number of months is 86 
+The total net profit is $38382578 
+The average difference for months $-2315.1176470588234 
+The greatest increase in profits is Feb-2012 ($1926159) 
+The greatest decrease in profits is Sep-2013 ($-2196167)
